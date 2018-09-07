@@ -1,0 +1,15 @@
+Component Print:
+Import "stdio.h"
+Int a;
+Char b;
+
+    Start:
+        a = 5;
+    End
+
+     Trigger: a; globalEvent:
+        Print "Currently %d ", a ;
+        a = a-1;
+     End
+
+End

@@ -1,0 +1,13 @@
+Component Data:
+
+    Start:
+        Int a;
+        Char b;
+        Long c; 
+        Short d; 
+        Float f;
+        Double e; 
+    End
+
+End
+

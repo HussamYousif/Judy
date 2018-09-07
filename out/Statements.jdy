@@ -1,0 +1,28 @@
+Component Statement:
+
+    Start:
+        Break;
+        Continue;
+
+        Print "Hello";
+
+        Int a;
+
+        Int b = 1;
+
+        If 0 Do
+            Return 2;
+        End
+
+        While 1 Do
+            a = a+1;
+        End
+
+        For Int i = 0; i < 100; i = i + 1; Do
+            Break;
+        End
+
+        Return 1;
+    End
+
+End

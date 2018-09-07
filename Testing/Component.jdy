@@ -1,0 +1,15 @@
+Component Foo:
+
+    Start:
+        Break;
+    End
+
+    Trigger: 1; SomeEvent:
+        Break;
+    End
+
+    MyProcedure(Int a) -> Int:
+        Return 1;
+    End
+
+End
